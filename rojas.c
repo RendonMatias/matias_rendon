@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "Rendon.h"
+#include "rojas.h"
 
 void ingresarProductos(struct Producto producto[],int n){
     for(int i=0;i<n; i++){
